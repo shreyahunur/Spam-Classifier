@@ -5,9 +5,8 @@
 * [Rohit Yadav](https://github.com/Rohitky34) <br/>
 * [Hashmita Katta](https://github.com/hashmithakatta) <br/>
 
-## 1. Project title. 
-
-Spam Classifier
+## 1. Project title : Spam Classifier 
+![image](https://user-images.githubusercontent.com/64269342/164372641-e1073755-48de-481c-823d-643dd9bfdb11.png)
 
 ## 2. What data you’ll use and where you’ll get it?
 
