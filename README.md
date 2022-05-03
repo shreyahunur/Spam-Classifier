@@ -5,8 +5,17 @@
 * [Rohit Yadav](https://github.com/Rohitky34) <br/>
 * [Hashmitha Katta](https://github.com/hashmithakatta) <br/>
 
-## 1. Project title : Spam Classifier 
+## Spam Classifier 
 ![image](https://user-images.githubusercontent.com/64269342/164372641-e1073755-48de-481c-823d-643dd9bfdb11.png)
+
+## Abstract 
+
+Because of its global accessibility, relatively quick message transfer, and low sending cost, e-mail is one of the most popular and widely used modes of communication. Flaws in e-mail protocols, as well as an increase in electronic business and financial transactions, all contribute to an increase in e-mail-based threats. Email spam is one of the most serious issues facing today's Internet, causing financial harm to businesses and annoyance to individual users. Spam emails are invading users' mailboxes without their knowledge. They use more network capacity and time checking and deleting spam emails.
+
+Most Internet users openly despise spam, but enough of them respond to commercial offers that spam remains a viable source of income for spammers. While most users want to do the right thing to avoid and eliminate spam, they require clear and simple guidelines on how to behave. Despite all the measures taken to eliminate spam, it has not been completely eradicated. Furthermore, if the countermeasures are overly sensitive, even legitimate emails will be deleted.
+
+Among the methods developed to combat spam, filtering is one of the most important. Many spam filtering studies have focused on more sophisticated classifier-related issues.
+
 
 ## 2. What data you’ll use and where you’ll get it?
 
