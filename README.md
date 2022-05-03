@@ -40,7 +40,7 @@ spam class: the target attribute denoting whether the email was considered spam 
 
 
 
-## 4. Potential methods you will consider apply (these can change as you play with the data). Will you be doing unsupervised vs supervised methods? What specific methods within unsupervised and supervised will help you answer your questions from point #3?
+## Methodology
 
 We will be using supervised models, mainly different classification models like:
 
@@ -52,3 +52,14 @@ We will be using supervised models, mainly different classification models like:
 * Random Forest Classifier
 
 These classification methods will help us to classify the data into spam and not-spam, based on given features. 
+
+## Performance Metrics 
+
+Since it is a classification problem we will use the following performance metrics:-
+
+* Accuracy
+* Confusion Matrix
+* Precision
+* Recall
+* F1 score
+* Receiver operating characteristic(ROC) and Area under the curve(AUC)
