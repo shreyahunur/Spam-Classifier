@@ -16,6 +16,13 @@ Most Internet users openly despise spam, but enough of them respond to commercia
 
 Among the methods developed to combat spam, filtering is one of the most important. Many spam filtering studies have focused on more sophisticated classifier-related issues.
 
+## Problem Statement 
+
+Because of the rapid advancement of technology used by spammers, there is a need for classifiers that are more efficient, generic, and highly adaptive.
+Machine learning for spam classification is a critical area of study. The proposed work investigates and identifies the use of various learning algorithms for classifying spam messages from e-mail.
+
+Several attempts have been made to detect and filter spam email on the client side in order to solve the spam problem.
+
 
 ## Dataset
 
@@ -27,13 +34,11 @@ word freq w: 48 attributes describing the frequency of word w, the percentage of
 
 char freq c: 6 attributes describing the frequency of a character c, defined in the same way as word frequency.
 
-Char freq cap: 3 attributes describing the longest length, total numbers of capital letters and average length.
+char freq cap: 3 attributes describing the longest length, total numbers of capital letters and average length.
 
 spam class: the target attribute denoting whether the email was considered spam or no spam.
 
-## 3. Description of the problem you’ll solve. 
 
-Use the Spambase dataset from the UCI Machine Learning Repository to classify spam. This data is already parsed down from email to features.
 
 ## 4. Potential methods you will consider apply (these can change as you play with the data). Will you be doing unsupervised vs supervised methods? What specific methods within unsupervised and supervised will help you answer your questions from point #3?
 
