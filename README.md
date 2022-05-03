@@ -33,10 +33,15 @@ The UCI Machine Learning Repository has datasets for machine learning techniques
 The files contain one message per line. Each line is composed by two columns: one with label (ham or spam) and other with the raw text. Here are some examples:
 
 ham   What you doing?how are you?
+
 ham   Ok lar... Joking wif u oni...
+
 ham   Cos i was out shopping wif darren jus now n i called him 2 ask wat present he wan lor. Then he started guessing who i was wif n he finally guessed darren lor.
+
 spam   FreeMsg: Txt: CALL to No: 86888 & claim your reward of 3 hours talk time to use from your phone now! ubscribe6GBP/ mnth inc 3hrs 16 stop?txtStop
+
 spam   Sunshine Quiz! Win a super Sony DVD recorder if you canname the capital of Australia? Text MQUIZ to 82277. B
+
 spam   URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus 
 
 ## Methodology
