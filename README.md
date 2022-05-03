@@ -45,6 +45,12 @@ spam   Sunshine Quiz! Win a super Sony DVD recorder if you canname the capital o
 
 spam   URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus 
 
+## Data Science Life Cycle
+
+<img width="491" alt="Datasciencelifecycle" src="https://user-images.githubusercontent.com/56205828/166523042-1c5a0d53-fba8-4c5b-ac7d-6e4efc209fdc.png">
+
+
+
 ## Methodology
 
 We will be using supervised models, mainly different classification models like:
