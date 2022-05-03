@@ -26,19 +26,18 @@ Several attempts have been made to detect and filter spam email on the client si
 
 ## Dataset
 
-Dataset : https://www.openml.org/search?type=data&status=active&qualities.NumberOfInstances=between_1000_10000&id=44
+Dataset : https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
-The UCI Machine Learning Repository has datasets for machine learning techniques. UCI's spam dataset is made up of data gathered from 4601 email messages. In the Spam dataset, each instance has 58 properties. The frequency of a certain word or character in the email that corresponds to the instance is represented by the majority of the characteristics.
+The UCI Machine Learning Repository has datasets for machine learning techniques. The SMS Spam Collection (hereafter the corpus) is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. 
 
-word freq w: 48 attributes describing the frequency of word w, the percentage of words in the email.
+The files contain one message per line. Each line is composed by two columns: one with label (ham or spam) and other with the raw text. Here are some examples:
 
-char freq c: 6 attributes describing the frequency of a character c, defined in the same way as word frequency.
-
-char freq cap: 3 attributes describing the longest length, total numbers of capital letters and average length.
-
-spam class: the target attribute denoting whether the email was considered spam or no spam.
-
-
+ham   What you doing?how are you?
+ham   Ok lar... Joking wif u oni...
+ham   Cos i was out shopping wif darren jus now n i called him 2 ask wat present he wan lor. Then he started guessing who i was wif n he finally guessed darren lor.
+spam   FreeMsg: Txt: CALL to No: 86888 & claim your reward of 3 hours talk time to use from your phone now! ubscribe6GBP/ mnth inc 3hrs 16 stop?txtStop
+spam   Sunshine Quiz! Win a super Sony DVD recorder if you canname the capital of Australia? Text MQUIZ to 82277. B
+spam   URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus 
 
 ## Methodology
 
