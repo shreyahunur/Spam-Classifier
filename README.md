@@ -17,9 +17,19 @@ Most Internet users openly despise spam, but enough of them respond to commercia
 Among the methods developed to combat spam, filtering is one of the most important. Many spam filtering studies have focused on more sophisticated classifier-related issues.
 
 
-## 2. What data you’ll use and where you’ll get it?
+## Dataset
 
-Spambase Dataset: https://www.openml.org/search?type=data&status=active&qualities.NumberOfInstances=between_1000_10000&id=44
+Dataset : https://www.openml.org/search?type=data&status=active&qualities.NumberOfInstances=between_1000_10000&id=44
+
+The UCI Machine Learning Repository has datasets for machine learning techniques. UCI's spam dataset is made up of data gathered from 4601 email messages. In the Spam dataset, each instance has 58 properties. The frequency of a certain word or character in the email that corresponds to the instance is represented by the majority of the characteristics.
+
+word freq w: 48 attributes describing the frequency of word w, the percentage of words in the email.
+
+char freq c: 6 attributes describing the frequency of a character c, defined in the same way as word frequency.
+
+Char freq cap: 3 attributes describing the longest length, total numbers of capital letters and average length.
+
+spam class: the target attribute denoting whether the email was considered spam or no spam.
 
 ## 3. Description of the problem you’ll solve. 
 
