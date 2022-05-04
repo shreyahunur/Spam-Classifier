@@ -13,6 +13,12 @@ Most Internet users openly despise spam, but enough of them respond to commercia
 
 # Introduction
 
+Users now have personal and confidential information such as contact lists, credit card numbers, photographs, passwords, and much more stored in their smartphones, making them vulnerable to cyber-attacks via spam SMS. This allows hackers engaged in unethical activities to access smartphone data without the end-knowledge, user's jeopardizing the user's privacy. This could result in both monetary and functional losses. Spam messages appear to be on the rise, causing not only annoyance but also critical data loss for some users. Aside from that, SMS spam can be a driving force for malware and keyloggers.
+
+
+The widespread distribution of this type of problem, as well as less effective security control measures, has inspired many researchers to develop a set of techniques to assist simple formula, giving them an advantage over other techniques in particular sense. We intend to compare various classifying techniques on various datasets gathered from previous research works and evaluate them based on their accuracies, precision, recall, and CAP Curve. A comparison of traditional machine learning techniques and deep learning methods will be carried out.
+
+
 
 
 # Methods
