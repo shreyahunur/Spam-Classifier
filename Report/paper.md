@@ -28,9 +28,10 @@ We have collected a dataset with messages containing both SPAM and HAM(legitimat
 Methods which we will be using include:
 
 ## 1. Pre-Processing
-### a. Tokenization : 
+### a. Data Cleaning : 
+Data cleaning is very crucial process in NLP. In this only alphabetic characters are extracted from text removing the punctuation and numbers, and then all characters are  converted into lowercase. This cleaned text will be then used in further processing.
+### b. Tokenization : 
 Tokenization is breaking the raw text into small chunks. Tokenization breaks the raw text into words, sentences called tokens. These tokens help in understanding the context or developing the model for the NLP. The tokenization helps in interpreting the meaning of the text by analyzing the sequence of the words.
-### b. Removing unnecessary punctuation, tags
 ### c. Removing stop words :
 Stop words are a set of commonly used words in a language. Examples of stop words in English are “a”, “the”, “is”, “are” and etc. Stop words are commonly used in Text Mining and Natural Language Processing (NLP) to eliminate words that are so commonly used that they carry very little useful information.
 ### d. Stemming and Lemmatization
