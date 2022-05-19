@@ -22,7 +22,25 @@ Because of the rapid advancement of technology used by spammers, there is a need
 
 The proposed work investigates and identifies the use of various learning algorithms for classifying spam messages from SMS. The algorithm used here is a machine learning classification algorithm, which is implemented here and can be used to distinguish between spam and ham messages using the SMS spam collection data set provided. We train the machine by providing that data set so that it can learn from it and draw conclusions on its own. It is now critical to identify spam messages to reduce the number of frauds occurring around the world.
 
+## Where to start 
 
+### Installation
+Installation of below packages required before running the project
+
+`pip install -r requirements.txt`
+
+### Steps to run the project
+Create a folder in local for Above Git Repo and open in termianl to execute below commands-
+
+`$ git clone https://github.com/shreyahunur/255-Team-13.git`
+
+Navigate to folder data visualization and run DataVisualization_BeforeDataCleaning.ipynb in jupyter notebook
+
+Navigate to folder data preprocessing and run SpamClassifierPreprocessing.ipynb in jupyter notebook
+
+Navigate to folder data visualization and run Data_visualization_after_cleaning.ipynb in jupyter notebook
+
+Navigate to folder Model and run SpamClassifier.ipynb in jupyter notebook
 
 
 ## Dataset
