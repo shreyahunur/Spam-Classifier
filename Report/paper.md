@@ -75,6 +75,14 @@ Models we will train and compare :
 # Example Analysis
 
 # Conclusions
+This article discusses spam filtering techniques based on machine learning algorithms. For our experiments, we used a UCI dataset. Only this dataset was used to test our model.
+Bag of Words, Count vectorizer and TF-IDF are three distinct word embedding approaches that we used. In terms of accuracy score, TF-IDF with Random Forest classification method surpasses other algorithms in the trial. However, because the dataset is unbalanced, it is not enough to judge the performance just on accuracy; the precision, recall, ROC score and f1-score of the methods must also be considered. After further testing, the RF algorithm still manages to deliver good precision and f1-score, with precision of 0.97, ROC score of 0.99 and f1-score of 0.99 . Based on the characteristics employed, different algorithms will provide different performances and results. Adding extra characteristics may aid classifiers in improving training data and performance. We'll test our model on a variety of datasets in the future.
 
 
 # References
+1. D. K. Renuka, T. Hamsapriya, M. R. Chakkaravarthi and P. L. Surya, "Spam Classification Based on Supervised Learning Using Machine Learning Techniques," 2011 International Conference on Process Automation, Control and Computing, 2011, pp. 1-7.
+2. Shrawan Kumar Trivedi, “A Study of Machine Learning Classifiers for Spam Detection”, 2016 4th International Symposium on Computational and Business Intelligence,2016
+3. Naeem Ahmed, Rashid Amin, Hamza Aldabbas, Deepika Koundal, Bader Alouffi, and Tariq Shah “Machine Learning Techniques for Spam Detection in Email and IoT Platforms: Analysis and Research Challenges”, 3 February 2022 Hindawi Security and Communication Networks Volume, 2022
+4. Mehul Gupta, Aditya Bakliwal, Shubhangi Agarwal & Pulkit Mehndiratta , “A Comparative Study of Spam SMS Detection using Machine Learning Classifiers”, Proceedings of 2018 Eleventh International Conference on Contemporary Computing (IC3), 2018
+5. https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1
+
