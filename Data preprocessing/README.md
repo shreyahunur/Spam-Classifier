@@ -8,7 +8,8 @@
 <img width="1098" alt="image" src="https://user-images.githubusercontent.com/89368283/169952069-edbb080b-0092-47c0-acfd-783aca356e73.png">
 
 
-
+## 4. Stemming
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/89368283/169952858-bb135610-0cb7-413b-8c50-87439ac4ea6f.png">
 
 
 
