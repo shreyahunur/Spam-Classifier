@@ -12,3 +12,9 @@
 ## 4. Spam messages
 <img width="694" alt="Screen Shot 2022-05-23 at 9 30 40 PM" src="https://user-images.githubusercontent.com/64269342/169949749-f4c46b0f-05cb-497c-8278-2cddc2b91891.png">
 
+## 5. Plot of Spam and Ham messages
+<img width="411" alt="Screen Shot 2022-05-15 at 9 33 39 PM" src="https://user-images.githubusercontent.com/56205828/170112437-3f07f5e9-3dea-4c61-a818-57b083fdc5ff.png">
+
+## 6. Plot of Spam and Ham messages After Sampling
+<img width="394" alt="Screen Shot 2022-05-24 at 12 02 21 PM" src="https://user-images.githubusercontent.com/56205828/170112609-250b6419-9a40-4857-be0c-fdf78f4b0f22.png">
+
