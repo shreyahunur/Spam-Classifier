@@ -18,6 +18,11 @@
 <img width="520" alt="image" src="https://user-images.githubusercontent.com/89368283/169967803-ed247096-007d-4c13-970f-fa0e0a9d8ca2.png">
 
 ## Model AUC Score Comparision 
+
+**ROC graph before sampling**
+
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/89368283/169967940-1199e9b7-52e6-49b0-a2d9-e6397b574f29.png">
 
+**ROC graph after sampling**
 
+<img width="385" alt="Screen Shot 2022-05-25 at 3 05 17 PM" src="https://user-images.githubusercontent.com/56205828/170375900-63d0d1e5-2d15-497e-b176-05275d47737f.png">
