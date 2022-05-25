@@ -18,3 +18,12 @@
 ## 6. Plot of Spam and Ham messages After Sampling
 <img width="394" alt="Screen Shot 2022-05-24 at 12 02 21 PM" src="https://user-images.githubusercontent.com/56205828/170112609-250b6419-9a40-4857-be0c-fdf78f4b0f22.png">
 
+## 7. Outliers Detection
+
+**Pairplot of columns added in feature Engineering**
+
+<img width="624" alt="Screen Shot 2022-05-25 at 4 51 55 PM" src="https://user-images.githubusercontent.com/56205828/170387940-4f96a417-12d0-465e-b26b-2cedf4ac271c.png">
+
+**Pairplot of columns added in feature Engineering After Removing Outliers**
+
+<img width="605" alt="Screen Shot 2022-05-25 at 4 54 00 PM" src="https://user-images.githubusercontent.com/56205828/170388195-e8cde0c8-8e25-4caf-9dd3-b5240a3b11cb.png">
