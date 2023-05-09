@@ -1,9 +1,6 @@
-# 255-Team-13
 
-## Contributors
-* [Shreya Hunur](https://github.com/shreyahunur) <br/>
-* [Rohit Yadav](https://github.com/Rohitky34) <br/>
-* [Hashmitha Katta](https://github.com/hashmithakatta) <br/>
+
+
 
 ## Spam Classifier 
 ![image](https://user-images.githubusercontent.com/64269342/164372641-e1073755-48de-481c-823d-643dd9bfdb11.png)
@@ -92,3 +89,8 @@ Since it is a classification problem we will use the following performance metri
 * Recall
 * F1 score
 * Receiver operating characteristic(ROC) and Area under the curve(AUC)
+
+## Contributors
+* [Shreya Hunur](https://github.com/shreyahunur) <br/>
+* [Rohit Yadav](https://github.com/Rohitky34) <br/>
+* [Hashmitha Katta](https://github.com/hashmithakatta) <br/>
